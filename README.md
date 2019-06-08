@@ -3,5 +3,5 @@
 ## Checkout new projects
 
 
-### new email : wsbfrontend@projekty.pl
+### new email : wsbfrontend@projekty.wsb.pl
 
